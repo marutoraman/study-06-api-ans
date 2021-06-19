@@ -1,3 +1,9 @@
+課題６の解説
+====
+課題の内容
+# 解説動画
+https://youtu.be/CyUbfUmOGNs
+
 # 1
 VSCODEにREST Clientプラグインをインストールして楽天の商品APIを実行して結果が返ってくることを確認してみましょう。  
 REST Clientの使い方:https://protoout.studio/posts/visual-studio-code-api-rest-client
